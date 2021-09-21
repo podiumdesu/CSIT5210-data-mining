@@ -57,7 +57,7 @@ Please write a proposal including the following items.
 
 Note: It is suggested that you should do the whole project according to the proposal since you could plan ahead for your project with other groupmates earlier. However, if you want to change the project content after the project proposal, you are not encouraged. In this case, you could also approach the instructor for his approval and your project change could be accepted with justifications. 
 
-> Our proposal is [here](https://github.com/podiumdesu/CSIT5210-data-mining/blob/master/proposal-CSIT5210-GROUP02.pdf).
+> Our proposal is [here](https://github.com/podiumdesu/CSIT5210-data-mining/blob/master/proposal-CSIT5210.pdf).
 
 ## Final Report
 
