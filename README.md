@@ -1,7 +1,6 @@
 # **CSIT5210: Data Mining and Knowledge Discovery (Fall 2021)**
 
-**Instructor:
-**  [Prof. Raymond Chi-Wing Wong](http://www.cse.ust.hk/~raywong)
+**Instructor:  [Prof. Raymond Chi-Wing Wong](http://www.cse.ust.hk/~raywong)**
 
 **Group 02 Member: **
 
@@ -15,7 +14,7 @@
 
 20789341, WANG,Weihong
 
-##Important Dates and Submission Sites
+## Important Dates and Submission Sites
 
 **Important Dates**
 
