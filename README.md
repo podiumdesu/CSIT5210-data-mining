@@ -2,7 +2,7 @@
 
 **Instructor:  [Prof. Raymond Chi-Wing Wong](http://www.cse.ust.hk/~raywong)**
 
-**Group 02 Member: **
+**Group 02 Member:**
 
 20786466, BAI,Qian
 
